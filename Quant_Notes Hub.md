@@ -6,5 +6,6 @@
 [[Finance Hub]]
 [[Images Hub]]
 [[Math Hub]]
+[[Questions Hub]]
 [[Resources Hub]]
 [[README]]
