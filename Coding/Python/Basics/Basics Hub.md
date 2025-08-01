@@ -1,5 +1,6 @@
 #hub
 
-[[Objects]]
 [[Classes]]
 [[makedir]]
+[[Config]]
+[[Objects]]

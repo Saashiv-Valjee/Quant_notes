@@ -1,4 +1,6 @@
 #hub
 
 [[Where]]
-[[Rolling]]
+[[Loc]]
+[[Rolling window]]
+[[Rolling Object]]

@@ -9,3 +9,8 @@ input must be a dataframe, with an index and (probably) just 1 column of floats
 
 very useful for computing the [[Rolling Z-Score]]
 
+```
+.rolling()
+```
+
+itself creates an object, which is required to be used alongside some combination function like mean or std to compute something. Alone it doesn't do much.
