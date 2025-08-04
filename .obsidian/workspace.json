@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Python/Pandas/Loc.md",
+                "file": "Coding/Coding Hub.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Loc"
+              "title": "Coding Hub"
             }
           }
         ]
@@ -169,10 +169,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8fbc6f8af3cde4b6",
+  "active": "3a199c9a7f5465f4",
   "lastOpenFiles": [
-    "Coding/Python/Pandas/Rolling window.md",
     "Coding/Python/Pandas/Loc.md",
+    "commands.txt",
+    "commands,txt",
+    "Resources/Resources Hub.md",
+    "Questions/Questions Hub.md",
+    "Math/Distributions/Uniform Distribution/Uniform Distribution Hub.md",
+    "Math/Distributions/Secrecy Problem/Secrecy Problem Hub.md",
+    "Math/Distributions/Distributions Hub.md",
+    "Math/Bayes/Bayes Hub.md",
+    "Math/Math Hub.md",
+    "Images/Images Hub.md",
+    "Finance/Finance Hub.md",
+    "Coding/Python/Pandas/Pandas Hub.md",
+    "Coding/Python/Env management/Env management Hub.md",
+    "Coding/Python/Basics/Basics Hub.md",
+    "Coding/Python/Python Hub.md",
+    "Coding/C++/C++ Hub.md",
+    "Coding/Coding Hub.md",
+    "Coding/Python/Pandas/Rolling window.md",
     "Images/Pasted image 20250731232915.png",
     "Coding/Python/Pandas/Rolling Object.md",
     "Finance/N-day Log returns.md",
@@ -188,32 +205,14 @@
     "Math/Distributions/Uniform Distribution/Q3.md",
     "Images/Pasted image 20250731153457.png",
     "Images/Pasted image 20250731153331.png",
-    "Math/Distributions/Uniform Distribution/Q2.md",
     "Images/Pasted image 20250731152328.png",
     "Images/Pasted image 20250731152315.png",
-    "Math/Distributions/Uniform Distribution/Q1.md",
-    "Math/Distributions/Uniform Distribution/Uniform Distribution.md",
     "Images/Pasted image 20250731150812.png",
     "Math/Distributions/Uniform Distribution",
-    "Math/Math Hub.md",
-    "Finance/Rolling Z-Score.md",
-    "Quant_Notes Hub.md",
     "Math/Distributions",
-    "Resources/Resources Hub.md",
-    "Questions/Questions Hub.md",
-    "Images/Images Hub.md",
-    "Finance/Finance Hub.md",
-    "Coding/Python/Pandas/Pandas Hub.md",
-    "Coding/Python/Env management/Env management Hub.md",
-    "Coding/Python/Basics/Basics Hub.md",
-    "Coding/Python/Python Hub.md",
-    "Coding/C++/C++ Hub.md",
-    "Coding/Coding Hub.md",
     "Coding/Python/Pandas",
     "Coding/Python/Basics",
     "Questions",
-    "Coding/Python/Env management",
-    "Coding/C++",
-    "Coding/Python"
+    "Coding/Python/Env management"
   ]
 }

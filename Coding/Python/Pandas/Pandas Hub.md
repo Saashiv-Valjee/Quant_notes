@@ -2,5 +2,5 @@
 
 [[Where]]
 [[Loc]]
-[[Rolling window]]
 [[Rolling Object]]
+[[Rolling window]]
